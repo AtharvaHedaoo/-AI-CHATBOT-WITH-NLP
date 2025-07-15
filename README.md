@@ -30,3 +30,4 @@ The integration of NLP libraries such as spaCy, NLTK, or transformers enables th
 -🛠️ Extensible Knowledge Base
 
 ## OUTPUT
+<img width="1572" height="222" alt="Image" src="https://github.com/user-attachments/assets/1a97168e-86cd-40a3-a1a0-eecb8d8caf6b" />
